@@ -1,0 +1,82 @@
+.topheader {
+    margin: auto;
+    background-color: orange;
+    font-family: fantasy;
+    color: white;
+    height: 7%;
+    padding: 7px 0;
+}
+
+p.name {
+    float: left;
+}
+
+p.links {
+    float: right;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17%;
+}
+
+.header {
+    padding: 2%;
+  }
+
+.tickets {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-block-end: 2%;
+}
+
+#star {
+    float: left; 
+    width:45%;
+    height:300px;
+    border-radius: 7px;
+    background-color: rgb(233, 204, 161);
+    padding: 13px;
+    text-align: center;
+}
+
+#snow {
+    float: right;
+    width:45%;
+    height:300px;
+    border-radius: 7px;
+    background-color: rgb(233, 204, 161);
+    padding: 13px;
+    text-align: center;
+}
+
+input[type=button] {
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+    padding: 13px 21px;
+    border: none;
+    border-radius: 7px;
+}
+
+.other {
+    padding-left: 8%;
+    padding-right: 8%;
+    /*position: absolute;*/
+    vertical-align: 500%;
+    color: gray;
+  }

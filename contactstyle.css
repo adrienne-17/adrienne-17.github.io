@@ -1,0 +1,76 @@
+.topheader {
+    margin: auto;
+    background-color: orange;
+    font-family: fantasy;
+    color: white;
+    height: 7%;
+    padding: 7px 0;
+}
+
+p.name {
+    float: left;
+}
+
+p.links {
+    float: right;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.copyright {
+    padding: 2%;
+    color: gray;
+  }
+
+.header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17%;
+}
+
+.header {
+    padding: 2%;
+  }
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 13px; 
+    border: 1px solid rgb(216, 158, 111); 
+    border-radius: 7px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+  
+input[type=button] {
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+    padding: 13px 21px;
+    border: none;
+    border-radius: 7px;
+}
+
+.container {
+    border-radius: 7px;
+    background-color: rgb(233, 204, 161);
+    padding: 13px;
+}
+
+.additional {
+    padding-left: 8%;
+    padding-right: 8%;
+    color: gray;
+  }

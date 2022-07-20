@@ -1,0 +1,51 @@
+.topheader {
+    margin: auto;
+    background-color: orange;
+    font-family: fantasy;
+    color: white;
+    height: 7%;
+    padding: 7px 0;
+}
+
+p.name {
+    float: left;
+}
+
+p.links {
+    float: right;
+}
+
+.whiteheader img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 17%;
+}
+
+.pic img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  .description {
+    padding: 2%;
+  }
+
+  .rnr {
+    padding: 2%;
+    color: gray;
+  }
